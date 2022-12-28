@@ -1,0 +1,3 @@
+afterignore.txt
+*.pdf
+!test.pdf
